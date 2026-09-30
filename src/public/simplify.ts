@@ -52,4 +52,4 @@ fn(someInterface); // Error: Index signature for type "string" is missing in typ
 fn(someInterface as Simplify<SomeInterface>); // Good: transform an `interface` into a `type`
 ```
 */
-export type Simplify<T> = { [KeyType in keyof T]: T[KeyType] } & {};
+export type Simplify<T> = { [K in keyof T]: T[K] } & {};
