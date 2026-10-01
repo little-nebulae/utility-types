@@ -13,3 +13,4 @@ export type { IsUnknown } from "@/public/is-unknown";
 export type { Simplify } from "@/public/simplify";
 
 export type { ExcludeFrom } from "@/public/exclude-from";
+export type { ExtractFrom } from "@/public/extract-from";
