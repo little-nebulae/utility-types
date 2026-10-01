@@ -1,3 +1,5 @@
+export type { Primitive } from "@/public/primitive";
+
 export type { FindGlobalInstanceType } from "@/public/find-global-instance-type";
 export type { FindGlobalType } from "@/public/find-global-type";
 export type { If } from "@/public/if";
