@@ -9,3 +9,5 @@ export type { IsNever } from "@/public/is-never";
 export type { IsNull } from "@/public/is-null";
 export type { IsUnknown } from "@/public/is-unknown";
 export type { Simplify } from "@/public/simplify";
+
+export type { ExcludeFrom } from "@/public/exclude-from";
