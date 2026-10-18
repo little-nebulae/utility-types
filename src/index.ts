@@ -1,2 +1,2 @@
-export type { ExcludeFrom } from "@/public/exclude-from";
-export type { ExtractFrom } from "@/public/extract-from";
+export type * from "@/types/exclude-from";
+export type * from "@/types/extract-from";
