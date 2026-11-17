@@ -28,19 +28,19 @@
   },
   "devDependencies": {
     "@arethetypeswrong/core": "0.18.5",
-    "@oxc-node/cli": "0.1.7",
-    "@types/node": "26.6.5",
-    "oxfmt": "0.73.0",
-    "oxlint": "1.88.0",
-    "oxlint-tsgolint": "7.0.2004",
+    "@oxc-node/cli": "1.0.2",
+    "@types/node": "26.6.6",
+    "oxfmt": "0.78.0",
+    "oxlint": "1.93.0",
+    "oxlint-tsgolint": "7.0.2007",
     "publint": "0.3.25",
-    "tsdown": "0.23.1",
-    "type-fest": "5.10.0",
+    "tsdown": "0.23.7",
+    "type-fest": "6.0.0",
     "typescript": "7.0.2",
-    "vitest": "5.0.5"
+    "vitest": "5.1.0"
   },
   "peerDependencies": {
-    "type-fest": "^5.0.0"
+    "type-fest": "^6.0.0"
   },
   "devEngines": {
     "packageManager": {
