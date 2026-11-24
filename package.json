@@ -37,7 +37,7 @@
     "tsdown": "0.23.7",
     "type-fest": "6.0.0",
     "typescript": "7.1.0-beta",
-    "vitest": "5.1.0"
+    "vitest": "5.1.1"
   },
   "peerDependencies": {
     "type-fest": "^6.0.0"
